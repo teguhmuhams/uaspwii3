@@ -6,7 +6,6 @@
     <!-- Data Matkul Kom A -->
 
     <rdf:Description rdf:about="Semantic Web A">
-        <ps:matkul>Semantic Web A</ps:matkul>
         <ps:kode>ILK2213</ps:kode>
         <ps:ruangan>104</ps:ruangan>
         <ps:pengajar>Amalia</ps:pengajar>
@@ -16,7 +15,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Laboratorium Sistem Manajemen Database A1">
-        <ps:matkul>Laboratorium Sistem Manajemen Database A1</ps:matkul>
         <ps:kode>ILK2211P</ps:kode>
         <ps:ruangan>Lab Komputer</ps:ruangan>
         <ps:pengajar>Ilma Sakinah Parinduri</ps:pengajar>
@@ -26,7 +24,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Etika Profesi A">
-        <ps:matkul>Etika Profesi A</ps:matkul>
         <ps:kode>ILK4246</ps:kode>
         <ps:ruangan>105</ps:ruangan>
         <ps:pengajar>Muhammad Zarlis</ps:pengajar>
@@ -36,7 +33,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Sistem Manajemen Database A">
-        <ps:matkul>Sistem Manajemen Database A</ps:matkul>
         <ps:kode>ILK2212</ps:kode>
         <ps:ruangan>104</ps:ruangan>
         <ps:pengajar>Maya Silvi Lydia</ps:pengajar>
@@ -46,7 +42,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Struktur Data dan Algoritma A">
-        <ps:matkul>Struktur Data dan Algortima A</ps:matkul>
         <ps:kode>ILK2211</ps:kode>
         <ps:ruangan>104</ps:ruangan>
         <ps:pengajar>Elviawaty Muisa Zamzami</ps:pengajar>
@@ -56,7 +51,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Pemrograman Berorientasi Objek A">
-        <ps:matkul>Pemrograman Berorientasi Objek A</ps:matkul>
         <ps:kode>ILK2210</ps:kode>
         <ps:ruangan>103</ps:ruangan>
         <ps:pengajar>Handrizal</ps:pengajar>
@@ -66,7 +60,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Laboratorium Semantic Web A1">
-        <ps:matkul>Laboratorium Semantic Web A1</ps:matkul>
         <ps:kode>ILK2213P</ps:kode>
         <ps:ruangan>Lab Komputer</ps:ruangan>
         <ps:pengajar>Khairul Imam</ps:pengajar>
@@ -76,7 +69,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Laboratorium Pemrograman Berorientasi Objek A1">
-        <ps:matkul>Laboratorium Pemrograman Berorientasi Objek A1</ps:matkul>
         <ps:kode>ILK2210P</ps:kode>
         <ps:ruangan>Lab Komputer</ps:ruangan>
         <ps:pengajar>Wahyu Francesco Toldo</ps:pengajar>
@@ -86,7 +78,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Interaksi Manusia dan Komputer A">
-        <ps:matkul>Interaksi Mansuia dan Komputer A</ps:matkul>
         <ps:kode>ILK4248</ps:kode>
         <ps:ruangan>104</ps:ruangan>
         <ps:pengajar>Sri Melvani Hardi</ps:pengajar>
@@ -96,7 +87,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Laboratorium Pemrograman Berorientasi Objek A2">
-        <ps:matkul>Laboratorium Pemrograman Berorientasi Objek A2</ps:matkul>
         <ps:kode>ILK2210P</ps:kode>
         <ps:ruangan>Lab Komputer</ps:ruangan>
         <ps:pengajar>Timothy Fernando</ps:pengajar>
@@ -106,7 +96,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Laboratorium Sistem Manajemen Database A2">
-        <ps:matkul>Laboratorium Sistem Manajemen Database A2</ps:matkul>
         <ps:kode>ILK2211P</ps:kode>
         <ps:ruangan>Lab Komputer</ps:ruangan>
         <ps:pengajar>Faradhilla Chairani</ps:pengajar>
@@ -116,7 +105,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Kewirausahaan A">
-        <ps:matkul>Kewirausahaan A</ps:matkul>
         <ps:kode>ILK2214</ps:kode>
         <ps:ruangan>104</ps:ruangan>
         <ps:pengajar>Fauzan Nurahmadi</ps:pengajar>
@@ -126,7 +114,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Laboratorium Semantic Web A2">
-        <ps:matkul>Laborarotium Semantic Web A2</ps:matkul>
         <ps:kode>ILK2213P</ps:kode>
         <ps:ruangan>Lab Komputer</ps:ruangan>
         <ps:pengajar>Khairul Imam</ps:pengajar>
@@ -136,7 +123,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Laboratorium Struktur Data dan Algoritma A1">
-        <ps:matkul>Laboratorium Struktur Data dan Algoritma A1</ps:matkul>
         <ps:kode>ILK2212P</ps:kode>
         <ps:ruangan>Lab Komputer</ps:ruangan>
         <ps:pengajar>Timothy Fernando</ps:pengajar>
@@ -146,7 +132,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Laboratorium Struktur Data dan Algoritma A2">
-        <ps:matkul>Laboratorium Struktur Data dan Algoritma A2</ps:matkul>
         <ps:kode>ILK2212P</ps:kode>
         <ps:ruangan>Lab Komputer</ps:ruangan>
         <ps:pengajar>Faradhilla Chairani</ps:pengajar>
@@ -156,7 +141,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Aljabar Linier A">
-        <ps:matkul>Aljabar Linier A</ps:matkul>
         <ps:kode>ILK2209</ps:kode>
         <ps:ruangan>101</ps:ruangan>
         <ps:pengajar>Syahril Efendi</ps:pengajar>
@@ -169,7 +153,6 @@
     <!-- Data Matkul Kom B -->
 
     <rdf:Description rdf:about="Sistem Manajemen Database B">
-        <ps:matkul>Sistem Manajemen Database B</ps:matkul>
         <ps:kode>ILK2212</ps:kode>
         <ps:ruangan>105</ps:ruangan>
         <ps:pengajar>Maya Silvi Lydia</ps:pengajar>
@@ -179,7 +162,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Laboratorium Semantic Web B3">
-        <ps:matkul>Laboratium Semantic Web B3</ps:matkul>
         <ps:kode>ILK2213P</ps:kode>
         <ps:ruangan>Lab Komputer</ps:ruangan>
         <ps:pengajar>Muhammad Fikri Akbar Simatupang</ps:pengajar>
@@ -189,7 +171,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Pemrograman Berorientasi Objek B">
-        <ps:matkul>Pemrograman Berorientasi Objek B</ps:matkul>
         <ps:kode>ILK2210</ps:kode>
         <ps:ruangan>103</ps:ruangan>
         <ps:pengajar>Hayatunnufus</ps:pengajar>
@@ -199,7 +180,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Semantic Web B">
-        <ps:matkul>Semantic Web B</ps:matkul>
         <ps:kode>ILK2213</ps:kode>
         <ps:ruangan>105</ps:ruangan>
         <ps:pengajar>Amalia</ps:pengajar>
@@ -209,7 +189,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Laboratorium Sistem Manajemen Database B3">
-        <ps:matkul>Laboratorium Sistem Manajemen Database B3</ps:matkul>
         <ps:kode>ILK2211P</ps:kode>
         <ps:ruangan>Lab Komputer</ps:ruangan>
         <ps:pengajar>Arian Syah Putra</ps:pengajar>
@@ -219,7 +198,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Laboratorium Sistem Manajemen Database B4">
-        <ps:matkul>Laboratorium Sistem Manajemen Database B4</ps:matkul>
         <ps:kode>ILK2211P</ps:kode>
         <ps:ruangan>Lab Komputer</ps:ruangan>
         <ps:pengajar>Faradhilla Chairani</ps:pengajar>
@@ -229,7 +207,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Struktur Data dan Algoritma B">
-        <ps:matkul>Struktur Data dan Algoritma B</ps:matkul>
         <ps:kode>ILK2211</ps:kode>
         <ps:ruangan>104</ps:ruangan>
         <ps:pengajar>Elviawaty Muisa Zamzami</ps:pengajar>
@@ -239,7 +216,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Etika Profesi B">
-        <ps:matkul>Etika Profesi B</ps:matkul>
         <ps:kode>ILK4246</ps:kode>
         <ps:ruangan>105</ps:ruangan>
         <ps:pengajar>Elviwani</ps:pengajar>
@@ -249,7 +225,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Interaksi Manusia dan Komputer B">
-        <ps:matkul>Interaksi Manusia dan Komputer B</ps:matkul>
         <ps:kode>ILK4248</ps:kode>
         <ps:ruangan>101</ps:ruangan>
         <ps:pengajar>Sri Melvani Hardi</ps:pengajar>
@@ -259,7 +234,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Laboratorium Semantic Web B4">
-        <ps:matkul>Laboratorium Semantic Web B4</ps:matkul>
         <ps:kode>ILK2213P</ps:kode>
         <ps:ruangan>Lab Komputer</ps:ruangan>
         <ps:pengajar>Muhammad Fikri Akbar Simatupang</ps:pengajar>
@@ -269,7 +243,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Laboratorium Pemrograman Berorientasi Objek B3">
-        <ps:matkul>Laboratorium Pemrograman Berorientasi Objek B3</ps:matkul>
         <ps:kode>ILK2210P</ps:kode>
         <ps:ruangan>Lab Komputer</ps:ruangan>
         <ps:pengajar>Ilma Sakinah Parinduri</ps:pengajar>
@@ -279,7 +252,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Laboratorium Pemrograman Berorientasi Objek B4">
-        <ps:matkul>Laboratorium Pemrograman Berorientasi Objek B4</ps:matkul>
         <ps:kode>ILK2210P</ps:kode>
         <ps:ruangan>Lab Komputer</ps:ruangan>
         <ps:pengajar>Khairul Imam</ps:pengajar>
@@ -289,7 +261,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Laboratorium Struktur Data dan Algoritma B34">
-        <ps:matkul>Laboratorium Pemrograman Berorientasi Objek B34</ps:matkul>
         <ps:kode>ILK2212P</ps:kode>
         <ps:ruangan>Lab Komputer</ps:ruangan>
         <ps:pengajar>Arian Syah Putra</ps:pengajar>
@@ -299,7 +270,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Kewirausahaan B">
-        <ps:matkul>Kewirausahaan B</ps:matkul>
         <ps:kode>ILK2214</ps:kode>
         <ps:ruangan>104</ps:ruangan>
         <ps:pengajar>Fauzan Nurahmadi</ps:pengajar>
@@ -309,7 +279,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Aljabar Linier B">
-        <ps:matkul>Aljabar Linier B</ps:matkul>
         <ps:kode>ILK2209</ps:kode>
         <ps:ruangan>102</ps:ruangan>
         <ps:pengajar>Agus Salim Harahap</ps:pengajar>
@@ -322,7 +291,6 @@
     <!-- Data Matkul Kom C -->
 
     <rdf:Description rdf:about="Pemrograman Berorientasi Objek C">
-        <ps:matkul>Pemrograman Berorientasi Objek C</ps:matkul>
         <ps:kode>ILK2210</ps:kode>
         <ps:ruangan>103</ps:ruangan>
         <ps:pengajar>Jos Timanta Tarigan</ps:pengajar>
@@ -332,7 +300,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Sistem Manajemen Database C">
-        <ps:matkul>Sistem Manajemen Database C</ps:matkul>
         <ps:kode>ILK2212</ps:kode>
         <ps:ruangan>105</ps:ruangan>
         <ps:pengajar>Elviwani</ps:pengajar>
@@ -342,7 +309,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Struktur Data dan Algoritma C">
-        <ps:matkul>Struktur Data dan Algoritma C</ps:matkul>
         <ps:kode>ILK2211</ps:kode>
         <ps:ruangan>103</ps:ruangan>
         <ps:pengajar>Henny Febriana Harumy</ps:pengajar>
@@ -352,7 +318,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Etika Profesi C">
-        <ps:matkul>Etika Profesi C</ps:matkul>
         <ps:kode>ILK4246</ps:kode>
         <ps:ruangan>106</ps:ruangan>
         <ps:pengajar>Pauzi Ibrahim Nainggolan</ps:pengajar>
@@ -362,7 +327,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Semantic Web C">
-        <ps:matkul>Semantic Web C</ps:matkul>
         <ps:kode>ILK2213</ps:kode>
         <ps:ruangan>102</ps:ruangan>
         <ps:pengajar>Desilia Selvida</ps:pengajar>
@@ -372,7 +336,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Kewirausahaan C">
-        <ps:matkul>Kewirausahaan C</ps:matkul>
         <ps:kode>ILK2214</ps:kode>
         <ps:ruangan>104</ps:ruangan>
         <ps:pengajar>Pauzi Ibrahim Nainggolan</ps:pengajar>
@@ -382,7 +345,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Laboratorium Struktur Data dan Algoritma C5">
-        <ps:matkul>Laboratorium Struktur Data dan Algoritma C5</ps:matkul>
         <ps:kode>ILK2212P</ps:kode>
         <ps:ruangan>Lab Komputer</ps:ruangan>
         <ps:pengajar>Fitri Aulia Nasution</ps:pengajar>
@@ -392,7 +354,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Interaksi Manusia dan Komputer C">
-        <ps:matkul>Interaksi Manusia dan Komputer C</ps:matkul>
         <ps:kode>ILK4248</ps:kode>
         <ps:ruangan>106</ps:ruangan>
         <ps:pengajar>Elviwani</ps:pengajar>
@@ -402,7 +363,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Laboratorium Pemrograman Berorientasi Objek C5">
-        <ps:matkul>Laboratorium Pemrograman Berorientasi Objek C5</ps:matkul>
         <ps:kode>ILK2210P</ps:kode>
         <ps:ruangan>Lab Komputer</ps:ruangan>
         <ps:pengajar>Timothy Fernando</ps:pengajar>
@@ -412,7 +372,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Laboratorium Sistem Manajemen Database C5">
-        <ps:matkul>Laboratorium Sistem Manajemen Database C5</ps:matkul>
         <ps:kode>ILK2211P</ps:kode>
         <ps:ruangan>Lab Komputer</ps:ruangan>
         <ps:pengajar>Faradhilla Chairani</ps:pengajar>
@@ -422,7 +381,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Laboratorium Sistem Manajemen Database C6">
-        <ps:matkul>Laboratorium Sistem Manajemen Database C6</ps:matkul>
         <ps:kode>ILK2211P</ps:kode>
         <ps:ruangan>Lab Komputer</ps:ruangan>
         <ps:pengajar>Muhammad Fikri Akbar Simatupang</ps:pengajar>
@@ -432,7 +390,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Laboratorium Semantic Web C6">
-        <ps:matkul>Laboratorium Semantic Web C6</ps:matkul>
         <ps:kode>ILK2213P</ps:kode>
         <ps:ruangan>Lab Komputer</ps:ruangan>
         <ps:pengajar>Muhammad Ridho Harahap</ps:pengajar>
@@ -442,7 +399,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Aljabar Linier C">
-        <ps:matkul>Aljabar Linier C</ps:matkul>
         <ps:kode>ILK2209</ps:kode>
         <ps:ruangan>103</ps:ruangan>
         <ps:pengajar>Desilia Selvida</ps:pengajar>
@@ -452,7 +408,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Laboratorium Pemrograman Berorientasi Objek C6">
-        <ps:matkul>Laboratorium Pemrograman Beorientasi Objek C6</ps:matkul>
         <ps:kode>ILK2210P</ps:kode>
         <ps:ruangan>Lab Komputer</ps:ruangan>
         <ps:pengajar>Ilma Sakinah Parinduri</ps:pengajar>
@@ -462,7 +417,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Laboratorium Semantic Web C5">
-        <ps:matkul>Laboratorium Semantic Web C5</ps:matkul>
         <ps:kode>ILK2213P</ps:kode>
         <ps:ruangan>Lab Komputer</ps:ruangan>
         <ps:pengajar>Muhammad Ridho Harahap</ps:pengajar>
@@ -472,7 +426,6 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Laboratorium Struktur Data dan Algoritma C6">
-        <ps:matkul>Laboratorium Struktur Data dan Algoritma C6</ps:matkul>
         <ps:kode>ILK2212P</ps:kode>
         <ps:ruangan>Lab Komputer</ps:ruangan>
         <ps:pengajar>Muhammad Erald Setyaki</ps:pengajar>
