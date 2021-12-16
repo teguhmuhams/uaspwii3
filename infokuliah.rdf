@@ -1,0 +1,583 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ps="http://www.justafake.ns/ps#">
+    <!-- ps = palsu -->
+
+    <!-- to be made : data dosen dan aslab (dosen > nama, nip, nidn ; aslab > nama, nim) -->
+    <!-- Data Matkul Kom A -->
+
+    <rdf:Description rdf:about="Semantic Web A">
+        <ps:kode>ILK2213</ps:kode>
+        <ps:ruangan>104</ps:ruangan>
+        <ps:pengajar>Amalia</ps:pengajar>
+        <ps:hari>Senin</ps:hari>
+        <ps:jam>09:40 - 11:20</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Laboratorium Sistem Manajemen Database A1">
+        <ps:kode>ILK2211P</ps:kode>
+        <ps:ruangan>Lab Komputer</ps:ruangan>
+        <ps:pengajar>Ilma Sakinah Parinduri</ps:pengajar>
+        <ps:hari>Senin</ps:hari>
+        <ps:jam>11:20 - 13:00</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Etika Profesi A">
+        <ps:kode>ILK4246</ps:kode>
+        <ps:ruangan>105</ps:ruangan>
+        <ps:pengajar>Muhammad Zarlis</ps:pengajar>
+        <ps:hari>Senin</ps:hari>
+        <ps:jam>13:00 - 14:40</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Sistem Manajemen Database A">
+        <ps:kode>ILK2212</ps:kode>
+        <ps:ruangan>104</ps:ruangan>
+        <ps:pengajar>Maya Silvi Lydia</ps:pengajar>
+        <ps:hari>Senin</ps:hari>
+        <ps:jam>14:40 - 16:20</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Struktur Data dan Algoritma A">
+        <ps:kode>ILK2211</ps:kode>
+        <ps:ruangan>104</ps:ruangan>
+        <ps:pengajar>Elviawaty Muisa Zamzami</ps:pengajar>
+        <ps:hari>Selasa</ps:hari>
+        <ps:jam>08:00 - 10:30</ps:jam>
+        <ps:sks>3</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Pemrograman Berorientasi Objek A">
+        <ps:kode>ILK2210</ps:kode>
+        <ps:ruangan>103</ps:ruangan>
+        <ps:pengajar>Handrizal</ps:pengajar>
+        <ps:hari>Selasa</ps:hari>
+        <ps:jam>10:30 - 13:00</ps:jam>
+        <ps:sks>3</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Laboratorium Semantic Web A1">
+        <ps:kode>ILK2213P</ps:kode>
+        <ps:ruangan>Lab Komputer</ps:ruangan>
+        <ps:pengajar>Khairul Imam</ps:pengajar>
+        <ps:hari>Selasa</ps:hari>
+        <ps:jam>15:30 - 17:10</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Laboratorium Pemrograman Berorientasi Objek A1">
+        <ps:kode>ILK2210P</ps:kode>
+        <ps:ruangan>Lab Komputer</ps:ruangan>
+        <ps:pengajar>Wahyu Francesco Toldo</ps:pengajar>
+        <ps:hari>Rabu</ps:hari>
+        <ps:jam>09:40 - 11:20</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Interaksi Manusia dan Komputer A">
+        <ps:kode>ILK4248</ps:kode>
+        <ps:ruangan>104</ps:ruangan>
+        <ps:pengajar>Sri Melvani Hardi</ps:pengajar>
+        <ps:hari>Rabu</ps:hari>
+        <ps:jam>12:10 - 13:50</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Laboratorium Pemrograman Berorientasi Objek A2">
+        <ps:kode>ILK2210P</ps:kode>
+        <ps:ruangan>Lab Komputer</ps:ruangan>
+        <ps:pengajar>Timothy Fernando</ps:pengajar>
+        <ps:hari>Rabu</ps:hari>
+        <ps:jam>14:40 - 16:20</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Laboratorium Sistem Manajemen Database A2">
+        <ps:kode>ILK2211P</ps:kode>
+        <ps:ruangan>Lab Komputer</ps:ruangan>
+        <ps:pengajar>Faradhilla Chairani</ps:pengajar>
+        <ps:hari>Kamis</ps:hari>
+        <ps:jam>08:00 - 09:40</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Kewirausahaan A">
+        <ps:kode>ILK2214</ps:kode>
+        <ps:ruangan>104</ps:ruangan>
+        <ps:pengajar>Fauzan Nurahmadi</ps:pengajar>
+        <ps:hari>Kamis</ps:hari>
+        <ps:jam>13:50 - 15:30</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Laboratorium Semantic Web A2">
+        <ps:kode>ILK2213P</ps:kode>
+        <ps:ruangan>Lab Komputer</ps:ruangan>
+        <ps:pengajar>Khairul Imam</ps:pengajar>
+        <ps:hari>Jumat</ps:hari>
+        <ps:jam>08:00 - 09:40</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Laboratorium Struktur Data dan Algoritma A1">
+        <ps:kode>ILK2212P</ps:kode>
+        <ps:ruangan>Lab Komputer</ps:ruangan>
+        <ps:pengajar>Timothy Fernando</ps:pengajar>
+        <ps:hari>Jumat</ps:hari>
+        <ps:jam>08:00 - 09:40</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Laboratorium Struktur Data dan Algoritma A2">
+        <ps:kode>ILK2212P</ps:kode>
+        <ps:ruangan>Lab Komputer</ps:ruangan>
+        <ps:pengajar>Faradhilla Chairani</ps:pengajar>
+        <ps:hari>Jumat</ps:hari>
+        <ps:jam>09:40 - 11:20</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Aljabar Linier A">
+        <ps:kode>ILK2209</ps:kode>
+        <ps:ruangan>101</ps:ruangan>
+        <ps:pengajar>Syahril Efendi</ps:pengajar>
+        <ps:hari>Jumat</ps:hari>
+        <ps:jam>13:00 - 15:30</ps:jam>
+        <ps:sks>3</ps:sks>
+    </rdf:Description>
+
+
+    <!-- Data Matkul Kom B -->
+
+    <rdf:Description rdf:about="Sistem Manajemen Database B">
+        <ps:kode>ILK2212</ps:kode>
+        <ps:ruangan>105</ps:ruangan>
+        <ps:pengajar>Maya Silvi Lydia</ps:pengajar>
+        <ps:hari>Senin</ps:hari>
+        <ps:jam>09:40 - 11:20</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Laboratorium Semantic Web B3">
+        <ps:kode>ILK2213P</ps:kode>
+        <ps:ruangan>Lab Komputer</ps:ruangan>
+        <ps:pengajar>Muhammad Fikri Akbar Simatupang</ps:pengajar>
+        <ps:hari>Senin</ps:hari>
+        <ps:jam>11:20 - 13:00</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Pemrograman Berorientasi Objek B">
+        <ps:kode>ILK2210</ps:kode>
+        <ps:ruangan>103</ps:ruangan>
+        <ps:pengajar>Hayatunnufus</ps:pengajar>
+        <ps:hari>Senin</ps:hari>
+        <ps:jam>13:30 - 16:00</ps:jam>
+        <ps:sks>3</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Semantic Web B">
+        <ps:kode>ILK2213</ps:kode>
+        <ps:ruangan>105</ps:ruangan>
+        <ps:pengajar>Amalia</ps:pengajar>
+        <ps:hari>Selasa</ps:hari>
+        <ps:jam>08:00 - 09:40</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Laboratorium Sistem Manajemen Database B3">
+        <ps:kode>ILK2211P</ps:kode>
+        <ps:ruangan>Lab Komputer</ps:ruangan>
+        <ps:pengajar>Arian Syah Putra</ps:pengajar>
+        <ps:hari>Selasa</ps:hari>
+        <ps:jam>09:40 - 11:20</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Laboratorium Sistem Manajemen Database B4">
+        <ps:kode>ILK2211P</ps:kode>
+        <ps:ruangan>Lab Komputer</ps:ruangan>
+        <ps:pengajar>Faradhilla Chairani</ps:pengajar>
+        <ps:hari>Selasa</ps:hari>
+        <ps:jam>09:40 - 11:20</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Struktur Data dan Algoritma B">
+        <ps:kode>ILK2211</ps:kode>
+        <ps:ruangan>104</ps:ruangan>
+        <ps:pengajar>Elviawaty Muisa Zamzami</ps:pengajar>
+        <ps:hari>Selasa</ps:hari>
+        <ps:jam>11:20 - 13:50</ps:jam>
+        <ps:sks>3</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Etika Profesi B">
+        <ps:kode>ILK4246</ps:kode>
+        <ps:ruangan>105</ps:ruangan>
+        <ps:pengajar>Elviwani</ps:pengajar>
+        <ps:hari>Rabu</ps:hari>
+        <ps:jam>10:30 - 12:10</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Interaksi Manusia dan Komputer B">
+        <ps:kode>ILK4248</ps:kode>
+        <ps:ruangan>101</ps:ruangan>
+        <ps:pengajar>Sri Melvani Hardi</ps:pengajar>
+        <ps:hari>Rabu</ps:hari>
+        <ps:jam>13:50 - 15:30</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Laboratorium Semantic Web B4">
+        <ps:kode>ILK2213P</ps:kode>
+        <ps:ruangan>Lab Komputer</ps:ruangan>
+        <ps:pengajar>Muhammad Fikri Akbar Simatupang</ps:pengajar>
+        <ps:hari>Kamis</ps:hari>
+        <ps:jam>12:10 - 13:50</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Laboratorium Pemrograman Berorientasi Objek B3">
+        <ps:kode>ILK2210P</ps:kode>
+        <ps:ruangan>Lab Komputer</ps:ruangan>
+        <ps:pengajar>Ilma Sakinah Parinduri</ps:pengajar>
+        <ps:hari>Kamis</ps:hari>
+        <ps:jam>13:50 - 15:30</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Laboratorium Pemrograman Berorientasi Objek B4">
+        <ps:kode>ILK2210P</ps:kode>
+        <ps:ruangan>Lab Komputer</ps:ruangan>
+        <ps:pengajar>Khairul Imam</ps:pengajar>
+        <ps:hari>Kamis</ps:hari>
+        <ps:jam>13:50 - 15:30</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Laboratorium Struktur Data dan Algoritma B34">
+        <ps:kode>ILK2212P</ps:kode>
+        <ps:ruangan>Lab Komputer</ps:ruangan>
+        <ps:pengajar>Arian Syah Putra</ps:pengajar>
+        <ps:hari>Kamis</ps:hari>
+        <ps:jam>16:20 - 18:00</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Kewirausahaan B">
+        <ps:kode>ILK2214</ps:kode>
+        <ps:ruangan>104</ps:ruangan>
+        <ps:pengajar>Fauzan Nurahmadi</ps:pengajar>
+        <ps:hari>Jumat</ps:hari>
+        <ps:jam>08:00 - 09:40</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Aljabar Linier B">
+        <ps:kode>ILK2209</ps:kode>
+        <ps:ruangan>102</ps:ruangan>
+        <ps:pengajar>Agus Salim Harahap</ps:pengajar>
+        <ps:hari>Jumat</ps:hari>
+        <ps:jam>13:30 - 16:00</ps:jam>
+        <ps:sks>3</ps:sks>
+    </rdf:Description>
+
+
+    <!-- Data Matkul Kom C -->
+
+    <rdf:Description rdf:about="Pemrograman Berorientasi Objek C">
+        <ps:kode>ILK2210</ps:kode>
+        <ps:ruangan>103</ps:ruangan>
+        <ps:pengajar>Jos Timanta Tarigan</ps:pengajar>
+        <ps:hari>Senin</ps:hari>
+        <ps:jam>08:00 - 10:30</ps:jam>
+        <ps:sks>3</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Sistem Manajemen Database C">
+        <ps:kode>ILK2212</ps:kode>
+        <ps:ruangan>105</ps:ruangan>
+        <ps:pengajar>Elviwani</ps:pengajar>
+        <ps:hari>Senin</ps:hari>
+        <ps:jam>11:20 - 13:00</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Struktur Data dan Algoritma C">
+        <ps:kode>ILK2211</ps:kode>
+        <ps:ruangan>103</ps:ruangan>
+        <ps:pengajar>Henny Febriana Harumy</ps:pengajar>
+        <ps:hari>Senin</ps:hari>
+        <ps:jam>13:50 - 16:20</ps:jam>
+        <ps:sks>3</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Etika Profesi C">
+        <ps:kode>ILK4246</ps:kode>
+        <ps:ruangan>106</ps:ruangan>
+        <ps:pengajar>Pauzi Ibrahim Nainggolan</ps:pengajar>
+        <ps:hari>Selasa</ps:hari>
+        <ps:jam>08:00 - 09:40</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Semantic Web C">
+        <ps:kode>ILK2213</ps:kode>
+        <ps:ruangan>102</ps:ruangan>
+        <ps:pengajar>Desilia Selvida</ps:pengajar>
+        <ps:hari>Selasa</ps:hari>
+        <ps:jam>09:40 - 11:20</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Kewirausahaan C">
+        <ps:kode>ILK2214</ps:kode>
+        <ps:ruangan>104</ps:ruangan>
+        <ps:pengajar>Pauzi Ibrahim Nainggolan</ps:pengajar>
+        <ps:hari>Selasa</ps:hari>
+        <ps:jam>11:20 - 13:00</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Laboratorium Struktur Data dan Algoritma C5">
+        <ps:kode>ILK2212P</ps:kode>
+        <ps:ruangan>Lab Komputer</ps:ruangan>
+        <ps:pengajar>Fitri Aulia Nasution</ps:pengajar>
+        <ps:hari>Rabu</ps:hari>
+        <ps:jam>09:40 - 11:20</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Interaksi Manusia dan Komputer C">
+        <ps:kode>ILK4248</ps:kode>
+        <ps:ruangan>106</ps:ruangan>
+        <ps:pengajar>Elviwani</ps:pengajar>
+        <ps:hari>Rabu</ps:hari>
+        <ps:jam>12:10 - 13:50</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Laboratorium Pemrograman Berorientasi Objek C5">
+        <ps:kode>ILK2210P</ps:kode>
+        <ps:ruangan>Lab Komputer</ps:ruangan>
+        <ps:pengajar>Timothy Fernando</ps:pengajar>
+        <ps:hari>Rabu</ps:hari>
+        <ps:jam>16:20 - 18:00</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Laboratorium Sistem Manajemen Database C5">
+        <ps:kode>ILK2211P</ps:kode>
+        <ps:ruangan>Lab Komputer</ps:ruangan>
+        <ps:pengajar>Faradhilla Chairani</ps:pengajar>
+        <ps:hari>Kamis</ps:hari>
+        <ps:jam>13:50 - 15:30</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Laboratorium Sistem Manajemen Database C6">
+        <ps:kode>ILK2211P</ps:kode>
+        <ps:ruangan>Lab Komputer</ps:ruangan>
+        <ps:pengajar>Muhammad Fikri Akbar Simatupang</ps:pengajar>
+        <ps:hari>Kamis</ps:hari>
+        <ps:jam>13:50 - 15:30</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Laboratorium Semantic Web C6">
+        <ps:kode>ILK2213P</ps:kode>
+        <ps:ruangan>Lab Komputer</ps:ruangan>
+        <ps:pengajar>Muhammad Ridho Harahap</ps:pengajar>
+        <ps:hari>Kamis</ps:hari>
+        <ps:jam>16:20 - 18:00</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Aljabar Linier C">
+        <ps:kode>ILK2209</ps:kode>
+        <ps:ruangan>103</ps:ruangan>
+        <ps:pengajar>Desilia Selvida</ps:pengajar>
+        <ps:hari>Jumat</ps:hari>
+        <ps:jam>08:00 - 10:30</ps:jam>
+        <ps:sks>3</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Laboratorium Pemrograman Berorientasi Objek C6">
+        <ps:kode>ILK2210P</ps:kode>
+        <ps:ruangan>Lab Komputer</ps:ruangan>
+        <ps:pengajar>Ilma Sakinah Parinduri</ps:pengajar>
+        <ps:hari>Jumat</ps:hari>
+        <ps:jam>13:50 - 15:30</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Laboratorium Semantic Web C5">
+        <ps:kode>ILK2213P</ps:kode>
+        <ps:ruangan>Lab Komputer</ps:ruangan>
+        <ps:pengajar>Muhammad Ridho Harahap</ps:pengajar>
+        <ps:hari>Jumat</ps:hari>
+        <ps:jam>13:50 - 15:30</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Laboratorium Struktur Data dan Algoritma C6">
+        <ps:kode>ILK2212P</ps:kode>
+        <ps:ruangan>Lab Komputer</ps:ruangan>
+        <ps:pengajar>Muhammad Erald Setyaki</ps:pengajar>
+        <ps:hari>Jumat</ps:hari>
+        <ps:jam>15:30 - 17:10</ps:jam>
+        <ps:sks>2</ps:sks>
+    </rdf:Description>
+
+
+    <!-- Data dosen -->
+
+    <rdf:Description rdf:about="Muhammad Zarlis">
+        <ps:nama>Muhammad Zarlis</ps:nama>
+        <ps:nip>195707011986011003</ps:nip>
+        <ps:nidn>0001075703</ps:nidn>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Desilia Selvida">
+        <ps:nama>Desilia Selvida</ps:nama>
+        <ps:nip>198912052020012001</ps:nip>
+        <ps:nidn>0005128906</ps:nidn>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Syahril Efendi">
+        <ps:nama>Syahril Efendi</ps:nama>
+        <ps:nip>196711101996021001</ps:nip>
+        <ps:nidn>0010116706</ps:nidn>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Pauzi Ibrahim Nainggolan">
+        <ps:nama>Pauzi Ibrahim Nainggolan</ps:nama>
+        <ps:nip>198809142020011001</ps:nip>
+        <ps:nidn>0014098805</ps:nidn>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Elviawaty Muisa Zamzami">
+        <ps:nama>Elviawaty Muisa Zamzami</ps:nama>
+        <ps:nip>197007162005012002</ps:nip>
+        <ps:nidn>0016077001</ps:nidn>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Hayatunnufus">
+        <ps:nama>Hayatunnufus</ps:nama>
+        <ps:nip>199207192020012001</ps:nip>
+        <ps:nidn>0019079202</ps:nidn>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Maya Silvi Lydia">
+        <ps:nama>Maya Silvi Lydia</ps:nama>
+        <ps:nip>197401272002122001</ps:nip>
+        <ps:nidn>0027017403</ps:nidn>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Agus Salim Harahap">
+        <ps:nama>Agus Salim Harahap</ps:nama>
+        <ps:nip>195408281981031004</ps:nip>
+        <ps:nidn>0028085405</ps:nidn>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Fauzan Nurahmadi">
+        <ps:nama>Fauzan Nurahmadi</ps:nama>
+        <ps:nip>198512292018051001</ps:nip>
+        <ps:nidn>0029128506</ps:nidn>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Sri Melvani Hardi">
+        <ps:nama>Sri Melvani Hardi</ps:nama>
+        <ps:nip>198805012015042006</ps:nip>
+        <ps:nidn>0101058801</ps:nidn>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Handrizal">
+        <ps:nama>Handrizal</ps:nama>
+        <ps:nip>197706132017061001</ps:nip>
+        <ps:nidn>0113067703</ps:nidn>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Elviwani">
+        <ps:nama>Elviwani</ps:nama>
+        <ps:nip>197508182017062001</ps:nip>
+        <ps:nidn>0118087502</ps:nidn>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Henny Febriana Harumy">
+        <ps:nama>Henny Febriana Harumy</ps:nama>
+        <ps:nip>198802192019032016</ps:nip>
+        <ps:nidn>0119028802</ps:nidn>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Amalia">
+        <ps:nama>Amalia</ps:nama>
+        <ps:nip>197812212014042001</ps:nip>
+        <ps:nidn>0121127801</ps:nidn>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Jos Timanta Tarigan">
+        <ps:nama>Jos Timanta Tarigan</ps:nama>
+        <ps:nip>198501262015041001</ps:nip>
+        <ps:nidn>0126018502</ps:nidn>
+    </rdf:Description>
+
+
+    <!-- Data aslab -->
+
+    <rdf:Description rdf:about="Muhammad Erald Setyaki">
+        <ps:nama>Muhammad Erald Setyaki</ps:nama>
+        <ps:nim>181401066</ps:nim>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Ilma Sakinah Parinduri">
+        <ps:nama>Ilma Sakinah Parinduri</ps:nama>
+        <ps:nim>191401012</ps:nim>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Khairul Imam">
+        <ps:nama>Khairul Imam</ps:nama>
+        <ps:nim>191401024</ps:nim>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Fitri Aulia Nasution">
+        <ps:nama>Fitri Aulia Nasution</ps:nama>
+        <ps:nim>191401034</ps:nim>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Faradhilla Chairani">
+        <ps:nama>Faradhilla Chairani</ps:nama>
+        <ps:nim>191401041</ps:nim>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Wahyu Francesco Toldo">
+        <ps:nama>Wahyu Francesco Toldo</ps:nama>
+        <ps:nim>191401055</ps:nim>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Arian Syah Putra">
+        <ps:nama>Arian Syah Putra</ps:nama>
+        <ps:nim>191401076</ps:nim>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Timothy Fernando">
+        <ps:nama>Timothy Fernando</ps:nama>
+        <ps:nim>191401079</ps:nim>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Muhammad Fikri Akbar Simatupang">
+        <ps:nama>Muhammad Fikri Akbar Simatupang</ps:nama>
+        <ps:nim>191401080</ps:nim>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="Muhammad Ridho Harahap">
+        <ps:nama>Muhammad Ridho Harahap</ps:nama>
+        <ps:nim>191401089</ps:nim>
+    </rdf:Description>
+
+</rdf:RDF>
