@@ -156,7 +156,7 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Aljabar Linier A">
-        <ps:matkul>Aljabar Linear A</ps:matkul>
+        <ps:matkul>Aljabar Linier A</ps:matkul>
         <ps:kode>ILK2209</ps:kode>
         <ps:ruangan>101</ps:ruangan>
         <ps:pengajar>Syahril Efendi</ps:pengajar>
@@ -309,7 +309,7 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Aljabar Linier B">
-        <ps:matkul>Aljabar Linear B</ps:matkul>
+        <ps:matkul>Aljabar Linier B</ps:matkul>
         <ps:kode>ILK2209</ps:kode>
         <ps:ruangan>102</ps:ruangan>
         <ps:pengajar>Agus Salim Harahap</ps:pengajar>
@@ -392,7 +392,7 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Interaksi Manusia dan Komputer C">
-        <ps:matkul>Interaksi Manusia dan Komputer C5</ps:matkul>
+        <ps:matkul>Interaksi Manusia dan Komputer C</ps:matkul>
         <ps:kode>ILK4248</ps:kode>
         <ps:ruangan>106</ps:ruangan>
         <ps:pengajar>Elviwani</ps:pengajar>
@@ -442,7 +442,7 @@
     </rdf:Description>
 
     <rdf:Description rdf:about="Aljabar Linier C">
-        <ps:matkul>Laboratorium Aljabar Linier C</ps:matkul>
+        <ps:matkul>Aljabar Linier C</ps:matkul>
         <ps:kode>ILK2209</ps:kode>
         <ps:ruangan>103</ps:ruangan>
         <ps:pengajar>Desilia Selvida</ps:pengajar>
